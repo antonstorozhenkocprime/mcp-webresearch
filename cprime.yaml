@@ -7,7 +7,7 @@ server_name: webresearch
 command: npx
 args:
   - -y
-  - @mzxrai/mcp-webresearch@latest
+  - '@mzxrai/mcp-webresearch@latest'
 env: []
 
 description: Testing research.
